@@ -1,0 +1,8 @@
+timestamp,sensor_id,lote_id,produto,peso_lido,unidade,status_sensor
+2026-03-25 08:00:01,BAL-01,LOT-772,Paracetamol 500mg,25.450,kg,operacional
+2026-03-25 08:05:12,BAL-01,LOT-772,Paracetamol 500mg,25455,g,operacional
+2026-03-25 08:10:45,BAL-01,LOT-772,Paracetamol,25.440,kg,instavel
+2026-03-25 08:15:22,BAL-01,LOT-773,Dipirona Monoidratada,12.100,kg,operacional
+2026-03-25 08:20:00,BAL-01,LOT-773,Dipirona Monoidratada,,kg,erro_leitura
+2026-03-25 08:25:33,BAL-01,LOT-773,Dipirona Monoidratada,12105,g,operacional
+2026-03-25 08:30:10,BAL-02,LOT-801,Amoxicilina,5.000,kg,operacional
