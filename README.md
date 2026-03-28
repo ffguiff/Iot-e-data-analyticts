@@ -6,4 +6,4 @@ Dados brutos de balanças IoT na indústria farmacêutica costumam vir com ruíd
     *Conversor de Unidades: Função personalizada que identifica gramas (g) e converte para quilogramas (kg) automaticamente.
     *Agrupamento (BI): Consolida os dados por Lote e Produto para gerar médias precisas de pesagem.
 
-Tecnologias: Python, Pandas, CSV.
+Tecnologias: Python, Pandas, CSV, JSON.
