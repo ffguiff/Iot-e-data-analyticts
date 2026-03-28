@@ -1,0 +1,33 @@
+[
+  {
+    "_comment": "balanca 1",
+    "id_leitura": "TX-991",
+    "info_sensor": {
+      "modelo": "BAL-PRECISA-X",
+      "localizacao": "Setor-Fracionamento-01"
+    },
+    "dados_tecnicos": {
+      "lote": "LOT-772",
+      "produto": "Paracetamol 500mg",
+      "valor": 25.450,
+      "unidade": "kg"
+    },
+    "status": "sucesso"
+  },
+
+  {
+    "_comment": "balanca 2",
+    "id_leitura": "TX-992",
+    "info_sensor": {
+      "modelo": "BAL-PRECISA-X",
+      "localizacao": "Setor-Fracionamento-01"
+    },
+    "dados_tecnicos": {
+      "lote": "LOT-773",
+      "produto": "Dipirona 500mg",
+      "valor": 12500,
+      "unidade": "g"
+    },
+    "status": "sucesso"
+  }
+]
