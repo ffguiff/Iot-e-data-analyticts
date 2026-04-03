@@ -1,5 +1,5 @@
 import pandas as pd
-
+ 
 #carrega o arquivo csv
 df = pd.read_csv('balanca.csv')
 
